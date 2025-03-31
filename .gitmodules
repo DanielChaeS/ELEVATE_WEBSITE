@@ -1,0 +1,3 @@
+[submodule "elevate-frontend"]
+	path = elevate-frontend
+	url = https://github.com/DanielChaeS/ELEVATE_WEBSITE
